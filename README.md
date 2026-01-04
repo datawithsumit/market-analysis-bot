@@ -13,3 +13,8 @@ A Python automation script designed to fetch, clean, and analyze financial marke
 * `requests` (API Handling)
 * `pandas` (Data Analysis)
 * `logging` (System Monitoring)
+
+## Demo
+
+Below is the terminal output showing the Python script actively fetching and displaying real-time price data in a loop.
+![Market Bot Terminal Output](market.png)
